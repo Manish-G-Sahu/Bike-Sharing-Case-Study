@@ -11,6 +11,8 @@ We are required to model the demand for shared bikes with the available independ
 ## Objective:
 Develop a predictive model to estimate the demand for shared bikes based on available independent variables. This model will help BoomBikes' management:
 
-- 1) Understand how demand varies with different factors.
-- 2) Formulate business strategies to align supply with demand and meet customer expectations.
-- 3) Analyze demand dynamics in potential new markets to facilitate expansion and strategic planning.
+-  Understand how demand varies with different factors.
+-  Formulate business strategies to align supply with demand and meet customer expectations.
+-  Analyze demand dynamics in potential new markets to facilitate expansion and strategic planning.
+
+  
